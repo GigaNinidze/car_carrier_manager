@@ -28,4 +28,4 @@ pip install -r requirements.txt
 to start the app
 python main.py
 
-hen open http://localhost:5000 in your browser.
+then open http://localhost:5000 in your browser.
